@@ -59,7 +59,7 @@
         "fallout": {
           "css": [
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=831a9d04a907ac44323d82e029bcf23811698913",
-            "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=6e9cdc5ec0ab5cd6f60a7a80f5ac13c24faea707",
+            "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=c983cfb3de1dc77837800621b1e771f19a3eef06",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal.css?sha=bd14bf523a14bb3959d6d04c9c9cdb728b437b24",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=3a79171bff7252461e4ff5e76b507640bffcf5e1",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
@@ -422,7 +422,7 @@
           "fallout": {
             "css": [
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=831a9d04a907ac44323d82e029bcf23811698913",
-              "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=6e9cdc5ec0ab5cd6f60a7a80f5ac13c24faea707",
+              "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=c983cfb3de1dc77837800621b1e771f19a3eef06",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal.css?sha=bd14bf523a14bb3959d6d04c9c9cdb728b437b24",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=3a79171bff7252461e4ff5e76b507640bffcf5e1",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
